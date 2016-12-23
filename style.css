@@ -1,0 +1,27 @@
+body {
+  font-family: Verdana, Arial, sans-serif; }
+  body p {
+    color: #222222;
+    font-family: Verdana, Arial, sans-serif; }
+  body h1 {
+    font-family: Verdana, Arial, sans-serif; }
+  body h2 {
+    font-family: Verdana, Arial, sans-serif; }
+  body h3 {
+    font-family: Verdana, Arial, sans-serif; }
+  body h4 {
+    font-family: Verdana, Arial, sans-serif; }
+  body a {
+    color: #f27731; }
+  body #header {
+    background-color: #170a48;
+    height: 80px; }
+    body #header #main-menu a {
+      color: #f27731; }
+  body #main {
+    width: 960px; }
+  body #footer {
+    background-color: #ccf962;
+    height: 90px; }
+
+/*# sourceMappingURL=style.css.map */
